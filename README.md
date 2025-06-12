@@ -158,14 +158,8 @@ npm start
 
 Include screenshots of:
 
-* Home page
-* Listing page
-* New listing form
-* Reviews section
+![Homepage](./assets/home.png)
 
-*(Optional: add a folder `screenshots/` in the repo)*
-
----
 
 ## ✅ To-Do / Improvements
 
