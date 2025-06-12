@@ -154,18 +154,6 @@ npm start
 
 ---
 
-## 📸 Screenshots
-
-Include screenshots of:
-
-* Home page
-* Listing page
-* New listing form
-* Reviews section
-
-*(Optional: add a folder `screenshots/` in the repo)*
-
----
 
 ## ✅ To-Do / Improvements
 
