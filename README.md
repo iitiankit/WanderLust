@@ -54,7 +54,7 @@ Create a `.env` file in the root directory:
 SESSION_SECRET=your_super_secret_key
 ```
 
-> ✅ **DO NOT COMMIT `.env` to GitHub.** Add it to `.gitignore`.
+
 
 ### 4. Start MongoDB
 
@@ -156,7 +156,7 @@ npm start
 
 ## 📸 Screenshots
 
-Include screenshots of:
+Home Page:-
 
 ![Homepage](./assets/home.png)
 
